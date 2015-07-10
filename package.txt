@@ -1,0 +1,9 @@
+atom-beautify@0.28.7
+atom-html-preview@0.1.9
+emmet@2.3.12
+file-icons@1.5.8
+japanese-wrap@0.2.7
+minimap@4.10.2
+minimap-color-highlight@4.1.4
+monokai@0.14.0
+
